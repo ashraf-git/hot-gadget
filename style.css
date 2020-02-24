@@ -1,0 +1,67 @@
+.black-bg{
+    border-radius: 10px;
+    background-color: black;
+    padding: 10px 25px;
+    color: white;
+    border: none;
+}
+.carousel-indicators li{
+    background-color: orange;
+    height: 5px;
+}
+.carousel-inner{
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    display: none;
+}
+.see-all{
+    color: orange;
+}
+.see-all:hover{
+    text-decoration: none;
+    color: orange
+}
+.smart{
+    margin-bottom: 50px;
+}
+.card{
+    padding: 30px;
+    border: none;
+    box-shadow: 5px 5px 10px 5px lightgray;
+    text-align: center;
+    border-radius: 10px;
+}
+.related-border{
+    border: 3px solid orange;
+    margin: 0 auto;
+    width: 80px;
+    border-radius: 5px;
+}
+.bag{
+    box-shadow: 5px 5px 10px 5px lightgray;
+    padding: 40px 50px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px
+}
+.bag img{
+    padding-bottom: 15px;
+}
+.beauty {
+    box-shadow: 5px 5px 10px 5px lightgray;
+    padding: 40px 50px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 20px; 
+}
+.beauty img{
+    padding-bottom: 15px    ;
+}
+.shoes{
+    box-shadow: 5px 5px 10px 5px lightgray;
+    padding: 40px 50px;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 20px;
+}
